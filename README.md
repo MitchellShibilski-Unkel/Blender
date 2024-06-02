@@ -4,10 +4,9 @@ linking to external resources instead of including content in-line.
 See 'release/text/readme.html' for the end user read-me.
 -->
 
-Blender Clone - Unofficial <br />
-**Official Site: https://www.blender.org/get-involved/developers/**
+Blender Clone - Unofficial
 =======
-
+**Official Site: https://www.blender.org/get-involved/developers/** <br />
 Blender is the free and open source 3D creation suite.
 It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
 motion tracking and video editing.
