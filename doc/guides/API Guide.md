@@ -1,9 +1,9 @@
 ---------------------------------------------------
 Blender interface.c API toolkit notes
-(july 2003, Ton Roosendaal)
+(July 2003, Ton Roosendaal)
 ---------------------------------------------------
 
-Contents
+## Contents
 
 1 General notes
 1.1 C and H files
@@ -37,6 +37,8 @@ Contents
 	16. LINK and INLINK
 4.5 uiButton control functions
 
+
+<hr />
 
 ----------------1. General notes
 
