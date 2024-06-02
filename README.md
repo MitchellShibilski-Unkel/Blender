@@ -4,7 +4,8 @@ linking to external resources instead of including content in-line.
 See 'release/text/readme.html' for the end user read-me.
 -->
 
-Blender Clone - Unofficial
+Blender Clone - Unofficial <br />
+**Official Site: https://www.blender.org/get-involved/developers/**
 =======
 
 Blender is the free and open source 3D creation suite.
