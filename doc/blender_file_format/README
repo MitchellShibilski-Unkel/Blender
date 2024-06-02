@@ -1,4 +1,4 @@
-To inspect the blend-file-format used by a certain version of blender 2.5x,
+To inspect the blend-file-format used by a certain version of Blender 2.5x,
 navigate to this folder and run this command:
 
 blender2.5 -b -P BlendFileDnaExporter_25.py

@@ -102,7 +102,7 @@ def Align(handle):
 
 
 ######################################################
-# module classes
+# Module Classes
 ######################################################
 
 class BlendFile:
@@ -133,16 +133,6 @@ class BlendFile:
 
         # appending last fileblock, "ENDB"
         self.Blocks.append(fileblock)
-
-    # seems unused?
-    """
-    def FindBlendFileBlocksWithCode(self, code):
-        #result = []
-        #for block in self.Blocks:
-            #if block.Header.Code.startswith(code) or block.Header.Code.endswith(code):
-                #result.append(block)
-        #return result
-    """
 
 
 class BlendFileHeader:
