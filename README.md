@@ -28,6 +28,11 @@ Development
 - [Developer Forum](https://devtalk.blender.org)
 - [Developer Documentation](https://developer.blender.org/docs/)
 
+      make help    # List all available commands.
+      make update  # Update source code, add-ons and libraries to latest versions.
+      make         # Build Blender.
+      make test    # Run automated tests.
+
 
 License
 -------
